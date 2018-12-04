@@ -3,7 +3,7 @@ import json
 import requests
 import ast
 import time
-
+# comment just for test
 master_id = 2299551 #этому пользователю бот сообщает свое состояние
 
 def txtToDict(name): #открывает подготовленный txt и преобразует его в dict
